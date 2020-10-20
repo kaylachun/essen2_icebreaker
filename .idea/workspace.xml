@@ -21,10 +21,6 @@
   <component name="ChangeListManager">
     <list default="true" id="c03da610-5401-4839-940c-c94dc42758df" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/dictionary.txt" beforeDir="false" afterPath="$PROJECT_DIR$/dictionary.txt" afterDir="false" />
-<<<<<<< HEAD
-      <change beforePath="$PROJECT_DIR$/story.txt" beforeDir="false" afterPath="$PROJECT_DIR$/story.txt" afterDir="false" />
-=======
->>>>>>> NaranjoBranch
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,6 +47,19 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
   </component>
+  <component name="RunManager">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -59,11 +68,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1603217865955</updated>
-<<<<<<< HEAD
-      <workItem from="1603217867398" duration="461000" />
-=======
-      <workItem from="1603217867398" duration="1260000" />
->>>>>>> NaranjoBranch
+      <workItem from="1603217867398" duration="1508000" />
     </task>
     <servers />
   </component>
