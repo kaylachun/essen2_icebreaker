@@ -1,37 +1,37 @@
-Kopfkino 	-Mental cinema
+Kopfkino 	        -Mental cinema
 
-Schnapsidee 	-Crazy idea
+Schnapsidee 	    -Crazy idea
 
-Flughafen 	-Airport
+Flughafen 	        -Airport
 
-Berlin		-German capital
+Berlin		        -German capital
 
-Bratwurst 	-Type of sausage
+Bratwurst 	        -Type of sausage
 
-Hauptstrasse 	-Main road
+Hauptstrasse 	    -Main road
 
-Brot 		-loaf
+Brot 	    	    -loaf
 
-Gauss 		-Last name, individual was a mathematician and studied magnetic fields 			"Gauss cannon" is a magnetic rail system weapon based on his principles.
+Gauss 		        -Last name, individual was a mathematician and studied magnetic fields 			"Gauss cannon" is a magnetic rail system weapon based on his principles.
 
-Klimaanlage	-Air conditioner
+Klimaanlage	        -Air conditioner
 
-Rammstein 	-"Rock" band name, more heavy metal, very well known German band.
+Rammstein   	    -"Rock" band name, more heavy metal, very well known German band.
 
-Musik 		-Music
+Musik 		        -Music
 
-BMW 		-Auto manufacturer
+BMW 		        -Auto manufacturer
 
-Biergarten 	-Beer garden
+Biergarten 	        -Beer garden
 
-Ratskeller 	-Bar/Restaurant in a basement.
+Ratskeller 	        -Bar/Restaurant in a basement.
 
-Dirndel 	-Traditional dress
+Dirndel 	        -Traditional dress
 
-Lederhose 	-Leather breeches
+Lederhose 	        -Leather breeches
 
-Luftschloss 	-Castle in the air
+Luftschloss 	    -Castle in the air
 
-wettbewerbsfaehig -Competitive
+wettbewerbsfaehig   -Competitive
 
-Schneewittchen 	-Snow white
+Schneewittchen  	-Snow white
